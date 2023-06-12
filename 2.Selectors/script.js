@@ -15,6 +15,7 @@ for (let val of images){
     }
 }
 
+
 let para = document.getElementsByTagName("p");
 
 for (let val of para){
